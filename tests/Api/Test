@@ -1,0 +1,4 @@
+### show category
+GET http://localhost:8000/api/v1/checada/122606
+Accept: application/json
+Content-Type: application/json
